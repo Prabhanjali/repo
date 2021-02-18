@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'GitHub Documentation'
-copyright = '2021, ALURI SARATH CHANDRA'
-author = 'ALURI SARATH CHANDRA'
+project = 'new Documentation'
+copyright = '2021, Prabhanjali'
+author = 'Prabhanjali'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
